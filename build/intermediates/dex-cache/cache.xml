@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Joe\Documents\CodingChallenge\TripAdvisor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Joe\Documents\CodingChallenge\TripAdvisor\app\build\intermediates\pre-dexed\debug\classes-256f8f3f3054a074d906cbad80f9e7e2e5cd018b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joe\Documents\CodingChallenge\TripAdvisor\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Joe\Documents\CodingChallenge\TripAdvisor\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-18eece9800629f00585eda37a718c217c5eea952.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joe\Documents\CodingChallenge\TripAdvisor\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Joe\Documents\CodingChallenge\TripAdvisor\app\build\intermediates\pre-dexed\debug\classes-ad159f27fe601ac496f4b74890d8262e05195392.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joe\.gradle\caches\modules-2\files-2.1\com.koushikdutta.ion\ion\2.1.3\659c4d0a26ab5d857db1440199cef6dd42b4428\ion-2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0659c4d0a26ab5d857db1440199cef6dd42b4428">
+        <dex dex="C:\Users\Joe\Documents\CodingChallenge\TripAdvisor\app\build\intermediates\pre-dexed\debug\ion-2.1.3-6f70de345fd9901e8bbe8a7381d88ee5b1b2fe75.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joe\.gradle\caches\modules-2\files-2.1\com.koushikdutta.async\androidasync\2.1.3\52aed89a155265a48984ecc06aa8dec12674edad\androidasync-2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="52aed89a155265a48984ecc06aa8dec12674edad">
+        <dex dex="C:\Users\Joe\Documents\CodingChallenge\TripAdvisor\app\build\intermediates\pre-dexed\debug\androidasync-2.1.3-eb95c0f013945dacfe74f346e6f4340b9689c506.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joe\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\Joe\Documents\CodingChallenge\TripAdvisor\app\build\intermediates\pre-dexed\debug\gson-2.3-6f4465cae7fa11af3980bd03e8bc3a18da4edbb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joe\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Joe\Documents\CodingChallenge\TripAdvisor\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-a229a33316c161f85a972ca8e4dd855909d0083c.jar" />
+    </item>
+
+</items>

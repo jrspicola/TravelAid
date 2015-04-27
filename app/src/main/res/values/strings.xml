@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TripAdvisorCities</string>
+    <string name="title_city_detail">City Detail</string>
+    <string name="return_to_list">Return to List of Cities</string>
+</resources>
